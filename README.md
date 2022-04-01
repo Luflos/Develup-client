@@ -14,13 +14,13 @@ A fullstack application that allows users to create flash cards and organize the
 
 ## Deployed Link
 ---
-TBA
+[DevelUp+](https://deft-meringue-0b3188.netlify.app/about)
 ---
 ## Installation Instructions
 ---
 
 ### Server-Side
-- Fork and clone this [repository](https://github.com/Jamelscott/Develup-server)
+- Fork and clone this [repository](https://github.com/Luflos/Develup-server/tree/main)
 - Run `npm i ` to install the dependencies
 <details>
     <summary> NPM's for Client Side </summary>
@@ -81,6 +81,7 @@ REACT_APP_SERVER_URL=(http://localhost:(THEPORTYOUDEFINEONSERVERSIDE))
 * Figma
 * Trello
 * Git
+* Cloudinary
 
 
 ## [noSQL] Data Model Diagram
@@ -298,7 +299,12 @@ const toggleDisplay = () => {
 
 ## Reflection
 
-Will be filled by each individual member on their own Branch
+Wow... Already finished with Project 3. Can't believe there's only one more to go. 
+This project was tough. I never enjoyed group projects in school and I was never good at them.
+It was better during this project but it was still very challenging. We communicated but could have still communicated even more. Overall I'm proud of our finished product but we can definitely add on and try to hit more of our stretch goals. The app is not fully responsive either. We would need to change and optimize certain componenets. 
 
 ## Resources 
 - https://cloudinary.com/
+- https://www.mongodb.com/atlas/database
+- https://www.netlify.com/
+- https://www.heroku.com/
