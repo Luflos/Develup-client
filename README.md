@@ -14,7 +14,7 @@ A fullstack application that allows users to create flash cards and organize the
 
 ## Deployed Link
 ---
-[DevelUp+](https://deft-meringue-0b3188.netlify.app/about)
+[DevelUp+](https://devel-up.netlify.app/about)
 ---
 ## Installation Instructions
 ---
@@ -301,7 +301,7 @@ const toggleDisplay = () => {
 
 Wow... Already finished with Project 3. Can't believe there's only one more to go. 
 This project was tough. I never enjoyed group projects in school and I was never good at them.
-It was better during this project but it was still very challenging. We communicated but could have still communicated even more. Overall I'm proud of our finished product but we can definitely add on and try to hit more of our stretch goals. The app is not fully responsive either. We would need to change and optimize certain componenets. 
+It was better during this project but it was still very challenging. We communicated but could have still communicated even more. Overall I'm proud of our finished product but we can definitely add on and try to hit more of our stretch goals. The app is not fully responsive either. We would need to change and optimize certain componenets. I also learned how hard it was to utilize the git workflow. We would often run into 
 
 ## Resources 
 - https://cloudinary.com/
