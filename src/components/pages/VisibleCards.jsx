@@ -1,4 +1,3 @@
-
 function VisibleCards({ currentCards, setCurrentCards, cards, newCard }) {
   const cardsArray = newCard.map((element, index) => {
     return (
